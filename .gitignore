@@ -2,6 +2,7 @@
 test-results.json
 
 *.class
+*.idea
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/

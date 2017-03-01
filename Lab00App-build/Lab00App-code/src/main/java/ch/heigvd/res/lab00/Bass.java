@@ -9,7 +9,7 @@ package ch.heigvd.res.lab00;
  * @author Lawrence Stalder
  * @brief
  */
-public class Bass implements  IInstrument {
+public class Bass implements IInstrument {
     private String sound = "boum boum";
 
     public String play() {

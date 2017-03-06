@@ -7,7 +7,7 @@ package ch.heigvd.res.lab00;
  * 01.03.17 at 11:25
  *
  * @author Lawrence Stalder
- * @brief
+ * @brief Impl of Bass.java
  */
 public class Bass implements IInstrument {
     private String sound = "boum boum";
